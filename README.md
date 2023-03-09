@@ -19,6 +19,8 @@
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
 <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img alt="Semantic UI React" src="https://img.shields.io/badge/-Semantic_UI_React-35BDB2?style=flat&logo=semantic-ui-react&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
 <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
