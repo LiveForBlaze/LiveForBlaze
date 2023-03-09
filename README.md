@@ -5,7 +5,8 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/-ReactRouter-CA4245?style=flat&logo=react_router&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img alt="React Hook Form" src="https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat&logo=react-hook-form&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="Redux-Saga" src="https://img.shields.io/badge/-Redux_Saga-999999?style=flat&logo=redux-saga&logoColor=white" />
 <img alt="Effector" src="https://img.shields.io/badge/-Effector-F36001?style=flat&logo=meteor&logoColor=white" />
