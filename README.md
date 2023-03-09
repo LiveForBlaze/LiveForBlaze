@@ -5,6 +5,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react_router&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="Redux-Saga" src="https://img.shields.io/badge/-Redux_Saga-999999?style=flat&logo=redux-saga&logoColor=white" />
 <img alt="Effector" src="https://img.shields.io/badge/-Effector-F36001?style=flat&logo=meteor&logoColor=white" />
@@ -13,6 +14,7 @@
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white" />
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
 <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
