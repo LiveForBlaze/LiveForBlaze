@@ -6,7 +6,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img alt="Redux-Saga" src="https://img.shields.io/badge/-Redux-Saga-999999?style=flat&logo=redux-saga&logoColor=white" />
+  <img alt="Redux-Saga" src="https://img.shields.io/badge/-Redux_Saga-999999?style=flat&logo=redux-saga&logoColor=white" />
 <img alt="Effector" src="https://img.shields.io/badge/-Effector-F36001?style=flat&logo=meteor&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
