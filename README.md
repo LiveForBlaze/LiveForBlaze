@@ -15,6 +15,7 @@
 <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
 <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
+<img alt="Testing Library" src="https://img.shields.io/badge/-Testing_Library-E33332?style=flat&logo=Testing-Library&logoColor=white" />
   
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
