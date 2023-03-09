@@ -8,7 +8,7 @@
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="Redux-Saga" src="https://img.shields.io/badge/-Redux_Saga-999999?style=flat&logo=redux-saga&logoColor=white" />
 <img alt="Effector" src="https://img.shields.io/badge/-Effector-F36001?style=flat&logo=meteor&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
