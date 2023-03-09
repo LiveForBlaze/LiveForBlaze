@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer.</h3>
 
 <p>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
@@ -11,6 +13,8 @@
   <img alt="Redux-Saga" src="https://img.shields.io/badge/-Redux_Saga-999999?style=flat&logo=redux-saga&logoColor=white" />
 <img alt="Effector" src="https://img.shields.io/badge/-Effector-F36001?style=flat&logo=meteor&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
+<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
@@ -26,12 +30,9 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
   <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" />
-<img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
-<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
+
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="i18next" src="https://img.shields.io/badge/-i18next-26A69A?style=flat&logo=i18next&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
 </p>
