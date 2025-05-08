@@ -36,7 +36,19 @@ npm install react-time-tools
 
 ---
 
-### 📢 Connect With Me
+### 🛠 Currently
+
+- 📦 Maintaining [react-time-tools](https://www.npmjs.com/package/react-time-tools)
+- ✉️ Open to frontend-focused remote roles (React/TS, EU/US timezones)
+
+### 🏢 Private Work
+
+> Most of my development activity happens in corporate and internal Git repositories (EPAM, Creatopy, etc.).  
+I focus on architectural design, performance optimization, and mentoring — even if not all of it is public.
+
+---
+
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/rustam-mukhamedov-739975174" target="_blank">
@@ -46,5 +58,8 @@ npm install react-time-tools
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+- 📨 Email: liveforblaze@gmail.com  
+- 💬 Telegram: [@liveforblaze](https://t.me/liveforblaze)
 
 ---
